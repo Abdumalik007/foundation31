@@ -1,5 +1,3 @@
+a = 9
 
-
-print(3 * 3)
-print("Salom")
-
+print(a * 6)
